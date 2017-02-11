@@ -3,5 +3,3 @@ Second file first text
 This is edited first time
 
 This is second time edited
-
-this is thirs time 
